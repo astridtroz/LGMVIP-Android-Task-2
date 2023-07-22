@@ -1,2 +1,2 @@
-# face_detector app 
+#LGMVIP-Android-2
 All files are pushed in master branch
